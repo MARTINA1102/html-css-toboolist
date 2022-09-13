@@ -1,0 +1,158 @@
+html{
+    font-family: sans-serif;
+}
+
+body{
+    margin:0;
+    background-color: lightgray;
+}
+
+
+h1{
+    display: inline;
+    vertical-align:middle;
+    font-size: 40px;
+}
+
+.logo-img{
+    width: 60px;
+    vertical-align:middle;
+    margin:15px;
+}
+header{
+
+    background-color: white;
+    border-bottom:20px solid lightgrey;
+  
+    
+    
+}
+
+
+
+
+.container{
+    background-color: white;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    border-bottom: 2px solid lightgrey;
+    padding-left:30px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.azure-botton{
+    font-size: 10px;
+    color: white;
+    display:inline-block;
+    background-color: rgb(74, 204, 247);
+    border:1px solid rgb(74, 204, 247);
+    border-radius: 5px;
+    padding:10px;
+    margin: 10px;
+
+}
+.blue-botton{
+    font-size: 10px;
+    color: white;
+    display:inline-block;
+    background-color: rgb(74, 204, 247);
+    border:1px solid rgb(74, 204, 247);
+    border-radius: 15px;
+    padding:10px;
+    margin: 10px;
+}
+
+.white-botton{
+    font-size: 10px;
+    color: lightgray;
+    display:inline-block;
+    background-color: white;
+    border:1px solid lightgray;
+    border-radius: 5px;
+    padding:10px;
+    margin: 10px;
+
+}
+
+.lista{
+    background-color: white;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    border-bottom: 5px solid lightgrey;
+    padding-left:30px;
+    padding-top:30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+
+.sottotitolo{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.voce{
+    font-size: 15px;
+}
+
+.violet-botton{
+    font-size: 10px;
+    color:white;
+    display:inline-block;
+    background-color:rgb(134, 63, 152);
+    border:1px solid rgb(134, 63, 152);
+    border-radius: 15px;
+    padding:10px;
+    margin: 10px;
+
+
+}
+
+.green-botton{
+    font-size: 10px;
+    color:white;
+    display:inline-block;
+    background-color:rgb(78, 204, 160);
+    border:1px solid rgb(78, 204, 160);
+    border-radius: 15px;
+    padding:10px;
+    margin: 10px;
+
+}
+
+.yellow-botton{
+    font-size: 10px;
+    color:white;
+    display:inline-block;
+    background-color:rgb(234, 170, 59);
+    border:1px solid rgb(234, 170, 59);
+    border-radius: 15px;
+    padding:10px;
+    margin: 10px;
+
+}
+
+.magenta-botton{
+    font-size: 10px;
+    color:white;
+    display:inline-block;
+    background-color:rgb(228, 98, 211);
+    border:1px solid rgb(228, 98, 211);
+    border-radius: 15px;
+    padding:10px;
+    margin: 10px;
+
+}
+.lgreen-botton{
+    font-size: 10px;
+    color:white;
+    display:inline-block;
+    background-color:rgba(132, 221, 76, 0.799);
+    border:1px solid rgba(132, 221, 76, 0.799);
+    border-radius: 15px;
+    padding:10px;
+    margin: 10px;
+
+}
